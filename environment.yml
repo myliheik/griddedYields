@@ -1,0 +1,15 @@
+name: gisenv
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/free
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/pro
+dependencies:
+  - geopandas=0.12.2=pyhd8ed1ab_0
+  - matplotlib-base=3.6.2=py310he725631_0
+  - numpy=1.24.1=py310h1b7c290_0
+  - pandas=1.5.2=py310hecf8f37_0
+  - python=3.10.8=he7542f4_0_cpython
+  - seaborn=0.12.2=hd8ed1ab_0
+  - shapely=2.0.0=py310h4e43f2a_0
